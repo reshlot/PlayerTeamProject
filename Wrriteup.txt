@@ -1,0 +1,23 @@
+Title: FastPace Cricket Academy Player Management System
+
+Introduction:
+The FastPace Cricket Academy Player Management System is a console application written in C#. It allows the academy to maintain information about the players in their teams for one day games. The application provides functionalities to add players, remove players, and retrieve player details.
+
+Features:
+1. Add Player: The user can add a player to the team by providing the player's Id, name, and age. The application enforces the constraint of not allowing more than 11 players to be added to the team at a time. If the team is already full, an appropriate message is displayed.
+
+2. Remove Player: The user can remove a player from the team by providing the player's Id. If the player is found in the team, they are removed and a success message is displayed. If the player is not found, a message indicating the same is displayed.
+
+3. Get Player Details by Id: The user can retrieve player details by providing the player's Id. If the player is found in the team, their details are displayed, including the player's Id, name, and age. If the player is not found, a message indicating the same is displayed.
+
+4. Get Player Details by Name: The user can retrieve player details by providing the player's name. If one or more players with the given name are found in the team, their details are displayed. This includes the player's Id, name, and age. If no players are found with the given name, a message indicating the same is displayed.
+
+5. Get All Player Details: The user can retrieve details of all the players in the team. If there are players in the team, their details are displayed one by one, including the player's Id, name, and age. If there are no players in the team, a message indicating the same is displayed.
+
+Implementation:
+The program is implemented using two classes - Player and Team. The Player class represents a player with properties for PlayerId, Name, and Age. The Team class manages the players in the team and provides methods to add, remove, and retrieve player details.
+
+The program follows a menu-driven approach, where the user is presented with a menu of options to choose from. The user can enter their choice and the program performs the corresponding action based on the choice.
+
+Conclusion:
+The FastPace Cricket Academy Player Management System is a console application that provides functionalities to add, remove, and retrieve player details for one day games. The application enforces the constraint of not allowing more than 11 players to be added to the team. It is a simple and user-friendly system that helps the academy maintain information about their players effectively.

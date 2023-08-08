@@ -1,0 +1,8 @@
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\bin\Debug\PlayerTeam.exe.config
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\bin\Debug\PlayerTeam.exe
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\bin\Debug\PlayerTeam.pdb
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\obj\Debug\PlayerTeam.csproj.AssemblyReference.cache
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\obj\Debug\PlayerTeam.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\obj\Debug\PlayerTeam.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\obj\Debug\PlayerTeam.exe
+D:\Simplilearn\Phase End Project\PlayerTeam\PlayerTeam\obj\Debug\PlayerTeam.pdb
